@@ -15,7 +15,7 @@ setup(
   author = 'Jayant Sharma',                   # Type in your name
   author_email = 'sdewan_be19@thapar.edu',      # Type in your E-Mail
   url = 'https://github.com/sarthakdewan1601/topsis-sarthak-101903356',   # Provide either the link to your github or to your website
-  download_url='',
+  download_url='https://github.com/sarthakdewan1601/topsis-sarthak-101903356/archive/refs/tags/0.1.tar.gz',
   Keywords = ['Python', 'Topsis', '101903356'],   # Keywords that define your package best
           
   install_requires = [            # I get to this in a second
